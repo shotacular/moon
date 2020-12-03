@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(to bottom left, #d7fad0, #b3c5f5);
+  color: #ffffff;
+  font-family: sans-serif;
+  font-size: 2em;
+  text-align: center;
+  min-height: 100vh;
+}
+
+canvas {
+  border: solid 0.2em #fff;
+  height: 90vh;
+}
